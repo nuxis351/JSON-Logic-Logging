@@ -1,0 +1,20 @@
+{
+  "name": "json-logic-logging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuxis351/JSON-Logic-Logging.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuxis351/JSON-Logic-Logging/issues"
+  },
+  "homepage": "https://github.com/nuxis351/JSON-Logic-Logging#readme"
+}
